@@ -1,4 +1,4 @@
-﻿#SQL架构
+﻿# SQL架构
 	Write a SQL query to get the second highest salary from the Employee table.
 
 		+----+--------+
