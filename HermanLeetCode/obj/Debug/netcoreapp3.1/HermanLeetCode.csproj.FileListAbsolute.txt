@@ -1,0 +1,13 @@
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\bin\Debug\netcoreapp3.1\HermanLeetCode.exe
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\bin\Debug\netcoreapp3.1\HermanLeetCode.deps.json
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\bin\Debug\netcoreapp3.1\HermanLeetCode.runtimeconfig.json
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\bin\Debug\netcoreapp3.1\HermanLeetCode.runtimeconfig.dev.json
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\bin\Debug\netcoreapp3.1\HermanLeetCode.dll
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\bin\Debug\netcoreapp3.1\HermanLeetCode.pdb
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\obj\Debug\netcoreapp3.1\HermanLeetCode.csprojAssemblyReference.cache
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\obj\Debug\netcoreapp3.1\HermanLeetCode.AssemblyInfoInputs.cache
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\obj\Debug\netcoreapp3.1\HermanLeetCode.AssemblyInfo.cs
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\obj\Debug\netcoreapp3.1\HermanLeetCode.csproj.CoreCompileInputs.cache
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\obj\Debug\netcoreapp3.1\HermanLeetCode.dll
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\obj\Debug\netcoreapp3.1\HermanLeetCode.pdb
+D:\Workpace\study_workpace\leetcode\HermanLeetCode\HermanLeetCode\obj\Debug\netcoreapp3.1\HermanLeetCode.genruntimeconfig.cache
